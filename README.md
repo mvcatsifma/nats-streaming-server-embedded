@@ -1,6 +1,6 @@
 # nats-streaming-server-embedded
 
-This code demonstrates that creating a nast standalone server and subscription in the same projects, causes a protobuff error:
+This code demonstrates that creating a nats standalone server and subscription in the same projects, causes a protobuff error:
 
 ```
 2019/06/17 12:03:40 proto: duplicate proto type registered: pb.PubMsg
